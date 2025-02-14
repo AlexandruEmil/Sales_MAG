@@ -42,8 +42,8 @@ Vânzări pe lună și an.
 Analiza sezonalității.
 Performanța produselor și categoriilor.
 ```
+### __Vizualizări:__
 ```
-__Vizualizări:__
 Bar chart pentru cele mai populare produse.
 Line chart pentru tendințele vânzărilor în timp.
 ```
